@@ -18,7 +18,7 @@ function App() {
       <MenSection />
       <StylesSection />
       <CollectionSection />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
